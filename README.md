@@ -12,7 +12,7 @@ It is a widely used source for people to invest money in companies with high gro
 
 ## Screenshots
 
-![App Screenshot](https://www.dropbox.com/s/97mcd5bl1bj9i0x/Graph.png?dl=0)
+![Graph](https://user-images.githubusercontent.com/74582975/195996086-9801cc5e-656d-4988-8044-c721b0a12491.png)
 
 ## Tech Stack
 
