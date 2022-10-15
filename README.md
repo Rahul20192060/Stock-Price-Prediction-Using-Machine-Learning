@@ -14,6 +14,10 @@ It is a widely used source for people to invest money in companies with high gro
 
 ![Graph](https://user-images.githubusercontent.com/74582975/195996086-9801cc5e-656d-4988-8044-c721b0a12491.png)
 
+## Documentation
+
+[Documentation](https://www.dropbox.com/s/unt91sm6fnqnkyn/Stock%20Price%20Predictor%20Google.pdf?dl=0)
+
 ## Tech Stack
 
 Language : Python
@@ -23,8 +27,4 @@ Language : Python
 ## Disclaimer
 
 🔻 Do not use this code for investing or trading in the stock market. However, if you are interest in the stock market, you should read 📚 books that relate to stock market, investment, or finance. On the other hand, if you into quant or machine learning, read books about 📘 machine trading, algorithmic trading, and quantitative trading. You should read 📗 about Machine Learning and Deep Learning to understand the concept, theory, and the mathematics. On the other hand, you should read academic paper and do research online about machine learning and deep learning on 💻
-
-## Documentation
-
-[Documentation](https://www.dropbox.com/s/unt91sm6fnqnkyn/Stock%20Price%20Predictor%20Google.pdf?dl=0)
 
